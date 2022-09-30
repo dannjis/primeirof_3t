@@ -1,5 +1,5 @@
 ##identificação
-#Daniel Matias Nr. 5
+##Daniel Matias Nr. 5
 
 ##conteúdo
-#HTML,CSS e java escript
+#HTML,CSS e javaScript
